@@ -1,0 +1,50 @@
+fontes/fontes.md
+1. [Introdução ao Machine Learning - Towards Data Science](https://towardsdatascience.com/introduction-to-machine-learning-6f6e0b8f5f5)  
+2. [Guia prático de IA - Arxiv](https://arxiv.org/pdf/1407.7479.pdf)  
+3. [Aplicações de IA no mercado financeiro - Medium](https://medium.com/)  
+4. [Documentação oficial Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)  
+
+add: fontes de estudo
+add: testes de prompts
+add: resumo de regressão logística
+add: glossário de conceitos principais
+
+
+
+prompts/testes.md
+
+**Prompt inicio**  
+"Explique o conceito de regressão logística em linguagem simples."  
+ Resposta: Explicação clara, mas faltaram exemplos práticos.
+
+**Prompt refinado:**  
+"Explique regressão logística com um exemplo aplicado em crédito bancário."  
+Resposta: Contextualizou com inadimplência, trazendo mais valor.
+
+**Dificuldades:**  
+- Algumas respostas foram genéricas.  
+- Solução: especificar contexto e aplicação prática nos prompts.  
+resumos/regressao-logistica.md
+glossario/conceitos.md
+
+# Resumo: Regressão Logística
+
+A regressão logística é um modelo estatístico usado para prever variáveis binárias.  
+Exemplo: prever se um cliente será inadimplente (1) ou não (0).  
+
+- **Entrada:** variáveis explicativas (idade, renda, histórico de crédito).  
+- **Saída:** probabilidade entre 0 e 1.  
+- **Decisão:** aplica-se um threshold (ex.: 0.5) para classificar.  
+
+ Vantagens: simples, interpretável, bom para problemas binários.  
+ Limitações: não captura relações complexas sem transformação das variáveis.  
+
+glossario/conceitos.md
+
+ **Overfitting:** quando o modelo aprende demais os dados de treino e perde generalização.  
+- **Recall:** capacidade de encontrar todos os positivos.  
+- **Precision:** proporção de positivos corretos.  
+- **Threshold:** ponto de corte da probabilidade para definir a classe final.  
+- **Random Forest:** conjunto de árvores de decisão que melhora precisão e reduz overfitting.  
+
+
