@@ -4,6 +4,8 @@ fontes/fontes.md
 3. [Aplicações de IA no mercado financeiro - Medium](https://medium.com/)  
 4. [Documentação oficial Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)  
 
+
+
 add: fontes de estudo
 add: testes de prompts
 add: resumo de regressão logística
@@ -46,5 +48,7 @@ glossario/conceitos.md
 - **Precision:** proporção de positivos corretos.  
 - **Threshold:** ponto de corte da probabilidade para definir a classe final.  
 - **Random Forest:** conjunto de árvores de decisão que melhora precisão e reduz overfitting.  
+
+Projeto
 
 
